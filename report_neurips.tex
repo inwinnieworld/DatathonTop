@@ -55,7 +55,7 @@
 
 % ===================================================================
 \begin{abstract}
-Chúng tôi trình bày hệ thống dự báo doanh thu và COGS hàng ngày cho doanh nghiệp thời trang TMĐT Việt Nam, giai đoạn 01/01/2023–01/07/2024, huấn luyện trên lịch sử 2012–2022 (3.833 ngày, 14 bảng dữ liệu). Pipeline gồm ba lớp: (1)~94 đặc trưng lịch thuần tuý tính trước hoàn toàn; (2)~ensemble LightGBM Q-Specialist đa seed kết hợp Ridge và Prophet; (3)~hệ số hiệu chỉnh CR suy diễn từ tăng trưởng YoY ngành TMĐT theo báo cáo MoIT 2022. Mô hình tốt nhất (v47, 10 seeds) đạt \textbf{MAE = 669.087} trên leaderboard — vị trí dẫn đầu cuộc thi. Phân tích SHAP xác nhận Fourier năm (31,5\%) và xu hướng thời gian (21,9\%) là hai driver chính, với Urban Blowout được nhận diện đúng là sự kiện margin âm.
+Chúng tôi trình bày hệ thống dự báo doanh thu và COGS hàng ngày cho doanh nghiệp thời trang TMĐT Việt Nam, giai đoạn 01/01/2023–01/07/2024, huấn luyện trên lịch sử 2012–2022 (3.833 ngày, 14 bảng dữ liệu). Pipeline gồm ba lớp: (1)~94 đặc trưng lịch thuần tuý tính trước hoàn toàn; (2)~ensemble LightGBM Q-Specialist đa seed kết hợp Ridge và Prophet; (3)~hệ số hiệu chỉnh CR suy diễn từ tăng trưởng YoY ngành TMĐT theo báo cáo MoIT 2022. Mô hình tốt nhất (v47, 10 seeds) đạt \textbf{MAE = 669.087} trên leaderboard. Phân tích SHAP xác nhận Fourier năm (31,5\%) và xu hướng thời gian (21,9\%) là hai driver chính, với Urban Blowout được nhận diện đúng là sự kiện margin âm.
 \end{abstract}
 
 % ===================================================================

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.1)  1 MAY 2026 18:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.1)  1 MAY 2026 19:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1359,11 +1359,11 @@ Package rerunfilecheck Info: File `report_neurips.out' has not changed.
 (rerunfilecheck)             Checksum: 6C6CD7B2BC2187B441F05A328D9AC515;4236.
  ) 
 Here is how much of TeX's memory you used:
- 17209 strings out of 474479
- 289216 string characters out of 5741232
+ 17205 strings out of 474479
+ 289074 string characters out of 5741232
  1948542 words of memory out of 5000000
  38963 multiletter control sequences out of 15000+600000
- 615574 words of font info for 191 fonts, out of 8000000 for 9000
+ 615278 words of font info for 189 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,1013b,582s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\alberttran\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
@@ -1390,7 +1390,7 @@ Programs/MiKTeX/fonts/type1/vntex/urwvn/utmr8v.pfb><C:/Users/alberttran/AppData
 /Local/Programs/MiKTeX/fonts/type1/vntex/urwvn/utmri8v.pfb><C:/Users/alberttran
 /AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb><C:/Users/alber
 ttran/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt9.pfb>
-Output written on report_neurips.pdf (17 pages, 6682149 bytes).
+Output written on report_neurips.pdf (17 pages, 6682131 bytes).
 PDF statistics:
  410 PDF objects out of 1000 (max. 8388607)
  74 named destinations out of 1000 (max. 500000)

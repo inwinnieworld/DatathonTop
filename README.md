@@ -1,7 +1,7 @@
 # DATATHON 2026: THE GRIDBREAKER
 ## Dự Báo Doanh Thu Thương Mại Điện Tử Thời Trang
 
-**Nhóm thực hiện:** VinWinnieWorld (Trương Nguyên Đại Thắng, Lê Thị Hồng Đang, Lương Thị Hồng Nhung, Trần Võ Minh Hùng)  
+**Nhóm thực hiện:** ontop (Trương Nguyên Đại Thắng, Lê Thị Hồng Đang, Lương Thị Hồng Nhung, Trần Võ Minh Hùng)  
 **Tài liệu tham khảo chính:** Báo cáo Kỹ thuật (`report_neurips.pdf`)  
 **Kết quả tốt nhất (Public Leaderboard):** MAE = **669.087** (Pipeline `v47`)
 
