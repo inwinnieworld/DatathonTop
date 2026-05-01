@@ -22,6 +22,7 @@
 \usepackage{multirow}
 \usepackage{array}
 \usepackage{enumitem}
+\usepackage{float}
 \setlist[itemize]{noitemsep, topsep=1pt, leftmargin=*}
 \setlist[enumerate]{noitemsep, topsep=1pt, leftmargin=*}
 
@@ -130,32 +131,73 @@ Gross Margin (\%)  & 12,54     & 12,74     & $-$57,46 & 17,83     & $-$2,53 & 10
 
 Pattern mùa vụ bền vững qua mọi era (kể cả COVID): đỉnh T4–T6, đáy T11–T1 — có thể mô hình hoá bằng Fourier mà không cần lag. Sessions–Revenue $r=0,32$, bounce rate $r=-0,02$ (Hình~\ref{fig:corr}, Phụ lục~A) — conversion funnel quan trọng hơn traffic volume. Streetwear tăng từ 75\% (2012) lên 84\% (2022), Outdoor giảm từ 22\% xuống 9\% — nguy cơ tiếp tục suy giảm nếu không tái định vị (Hình~\ref{fig:stacked}, Phụ lục~A).
 
-\vspace{-2pt}
-\subsection{Đề Xuất Hành Động — \textit{Doanh nghiệp cần làm gì?}}
+\vspace{-6pt} % Ép khoảng cách để chống ugly blanks
+\subsection{Đề Xuất Hành Động — \textit{Doanh nghiệp cần làm gì? (Prescriptive)}}
 \vspace{-2pt}
 
-\begin{table}[h!]
+Tổng hợp từ các đứt gãy trong phễu chuyển đổi (Traffic) và chuỗi cung ứng (Supply Chain), Bảng \ref{tab:prescriptive} lượng hóa các rủi ro và đề xuất các hành động chiến lược (Actionable Insights) nhằm xoay trục biên lợi nhuận.
+
+\begin{table}[H] % Dùng [htbp] thay vì [H] để LaTeX tự trôi bảng cho khít trang
 \centering
-\caption{5 đề xuất hành động có định lượng dựa trên bằng chứng dữ liệu}
+\caption{Đề xuất hành động chiến lược dựa trên bằng chứng dữ liệu phân tích}
 \label{tab:prescriptive}
-\footnotesize
-\setlength{\tabcolsep}{3.5pt}
-\begin{tabular}{p{2.2cm}p{2.8cm}p{3.6cm}p{2.4cm}}
+\scriptsize
+\setlength{\tabcolsep}{3pt}
+\renewcommand{\arraystretch}{1.1}
+\begin{tabular}{p{2.5cm} p{4.6cm} p{5.8cm}}
 \toprule
-\textbf{Vấn đề} & \textbf{Bằng chứng} & \textbf{Hành động} & \textbf{Tác động ước tính} \\
+\textbf{Nút thắt cốt lõi} & \textbf{Bằng chứng Dữ liệu (Data Evidence)} & \textbf{Hành động Đề xuất (Prescriptive Action)} \\
 \midrule
-Urban Blowout lỗ gộp & Q3-odd COGS/Rev = 1,057 & Cap chiết khấu $\leq$8\% Q3-odd & +60M VNĐ/campaign \\
-\addlinespace[2pt]
-Retention = 0\% & Gap trung vị 146 ngày & Email re-engagement D+30–60 (Email CLV 172K $\approx$ Referral 171K) & Repeat rate 1\%$\to$5\% \\
-\addlinespace[2pt]
-Overstock nghiêm trọng & Sell-through 20\%, fill rate 95\% & Giảm EOQ 30\% cho SKU rating $<$3,5; ưu tiên nhập hàng SKU rating $\geq$4,5 + stockout $\geq$40 ngày & Giải phóng ~75\% tồn trữ \\
-\addlinespace[2pt]
-Chu kỳ lương chưa khai thác & SHAP: payday top-4 driver & Flash sale ngày 28–31, kênh Email (bounce 44,58\%, thấp nhất) & Revenue $\uparrow$~25–35\% cuối tháng \\
-\addlinespace[2pt]
-Trả hàng sai size 35\% & Nhất quán qua 4 danh mục & AI size recommender (lịch sử + review) & Return rate 5,6\%$\to$$<$4\%, tiết kiệm $\sim$1,6\% GMV \\
+
+\textbf{1. Lãng phí Traffic \& \newline Rớt khách hàng} & 
+- Conversion Rate (CR) cực thấp: \textbf{1,1\%} \newline
+- \textbf{90M} sessions bị lãng phí \newline
+- Retention M+1 $< 4\%$ \newline
+- 26\% khách bỏ cuộc ở đơn đầu tiên & 
+\vspace{-8pt}\begin{itemize}
+    \item \textbf{Tối ưu CRO:} Đơn giản hóa quy trình checkout, tăng tốc độ tải trang mobile.
+    \item \textbf{Remarketing:} Đeo bám giỏ hàng (Browse Abandonment) cho 90M sessions.
+    \item \textbf{Loyalty:} Xây dựng luồng tri ân riêng cho nhóm \textbf{55+} (nhóm có LTV cao nhất: 7,42 đơn/khách).
+\end{itemize}\vspace{-8pt} \\
+
+\midrule
+
+\textbf{2. Biên lợi nhuận mỏng \newline \& Lỗ vận hành Q4} & 
+- Discount ăn mòn \textbf{14,7\%} Net Revenue \newline
+- Q4 là đáy mùa vụ (Lợi nhuận T12 chỉ 3 tỷ) \newline
+- Tương quan COGS/Rev rất cao ($r=0,976$) & 
+\vspace{-8pt}\begin{itemize}
+    \item \textbf{Cắt giảm ngân sách:} Giảm chi phí Marketing \& nhân sự thời vụ trong Q4 để bảo vệ margin.
+    \item \textbf{Cải cách Discount:} Ngừng chiến lược đổi volume lấy margin; giới hạn % discount cho các danh mục không sinh lời.
+\end{itemize}\vspace{-8pt} \\
+
+\midrule
+
+\textbf{3. Đứt gãy Chuỗi cung ứng \newline \& Trả hàng} & 
+- Stockout rate lên tới \textbf{67,34\%} \newline
+- Sell-through chỉ \textbf{20\%} dù Fill rate 95\% \newline
+- Sai kích cỡ chiếm \textbf{35\%} lý do trả hàng (đặc biệt size XL chiếm 3,7K case) & 
+\vspace{-8pt}\begin{itemize}
+    \item \textbf{AI Sizing:} Đầu tư công cụ gợi ý kích cỡ trực quan (ROI sẽ cao hơn việc tối ưu tốc độ giao hàng).
+    \item \textbf{Audit kho bãi:} Rà soát hiện tượng tồn kho ảo (đặc biệt dòng BambooCraft). Ưu tiên nhập gấp các SKUs có Stockout Cost cao (HanoiStreet, DragonWear).
+\end{itemize}\vspace{-8pt} \\
+
+\midrule
+
+\textbf{4. Mất cân bằng \newline Danh mục \& Phân khúc} & 
+- \textbf{Standard:} Margin cao nhất (31,3\%) nhưng volume thấp \newline
+- \textbf{Trendy:} Trả hàng cao nhất (3,52\%) \newline
+- Quá phụ thuộc vào Streetwear (84\% Rev) & 
+\vspace{-8pt}\begin{itemize}
+    \item \textbf{Scale-up:} Dồn ngân sách Ads cho phân khúc Standard.
+    \item \textbf{Kiểm định chất lượng:} Chuẩn hóa lại hình ảnh/mô tả thực tế cho nhóm Trendy để khớp kỳ vọng khách hàng.
+\end{itemize}\vspace{-8pt} \\
+
 \bottomrule
 \end{tabular}
 \end{table}
+
+\vspace{-4pt} % Ép khoảng cách trước khi sang Phần 3
 
 % ===================================================================
 \section{Pipeline Mô Hình Dự Báo}

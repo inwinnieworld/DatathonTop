@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.1)  1 MAY 2026 19:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.1)  1 MAY 2026 23:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -693,13 +693,21 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \enit@count@id=\count302
 \enitdp@description=\count303
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 30.
+(C:\Users\alberttran\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count304
+\float@exts=\toks32
+\float@box=\box57
+\@float@everytoks=\toks33
+\@floatcapt=\box58
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 31.
 
 (C:\Users\alberttran\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backen
 d-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count304
-\l__pdf_internal_box=\box57
+\l__color_backend_stack_int=\count305
+\l__pdf_internal_box=\box59
 ) (report_neurips.aux
 LaTeX Font Info:    Trying to load font information for T5+ptm on input line 8.
 
@@ -709,32 +717,32 @@ File: t5utm.fd 2005/08/24 Fontinst v1.929 font definitions for T5/ptm.
 ))
 \openout1 = `report_neurips.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 53.
-LaTeX Font Info:    Trying to load font information for T5+cmr on input line 53
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 54.
+LaTeX Font Info:    Trying to load font information for T5+cmr on input line 54
 .
 
 (C:\Users\alberttran\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmr.fd
 File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -802,18 +810,18 @@ LaTeX Font Info:    ... okay on input line 53.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 53.
+Package hyperref Info: Link coloring ON on input line 54.
 (report_neurips.out) (report_neurips.out)
 \@outlinefile=\write3
 \openout3 = `report_neurips.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 53.
-Package microtype Info: Applying patch `item' on input line 53.
-Package microtype Info: Applying patch `toc' on input line 53.
-Package microtype Info: Applying patch `eqnum' on input line 53.
-Package microtype Info: Applying patch `footnote' on input line 53.
-Package microtype Info: Applying patch `verbatim' on input line 53.
-LaTeX Info: Redefining \microtypesetup on input line 53.
+LaTeX Info: Redefining \microtypecontext on input line 54.
+Package microtype Info: Applying patch `item' on input line 54.
+Package microtype Info: Applying patch `toc' on input line 54.
+Package microtype Info: Applying patch `eqnum' on input line 54.
+Package microtype Info: Applying patch `footnote' on input line 54.
+Package microtype Info: Applying patch `verbatim' on input line 54.
+LaTeX Info: Redefining \microtypesetup on input line 54.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -832,23 +840,23 @@ File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/ptm/m/n/10'. Switching off
-(microtype)                protrusion for this font on input line 53.
+(microtype)                protrusion for this font on input line 54.
 
 
 (C:\Users\alberttran\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-p
 df.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count305
+\scratchcounter=\count306
 \scratchdimen=\dimen191
-\scratchbox=\box58
-\nofMPsegments=\count306
-\nofMParguments=\count307
-\everyMPshowfont=\toks32
-\MPscratchCnt=\count308
+\scratchbox=\box60
+\nofMPsegments=\count307
+\nofMParguments=\count308
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count309
 \MPscratchDim=\dimen192
-\MPnumerator=\count309
-\makeMPintoPDFobject=\count310
-\everyMPtoPDFconversion=\toks33
+\MPnumerator=\count310
+\makeMPintoPDFobject=\count311
+\everyMPtoPDFconversion=\toks35
 )
 (C:\Users\alberttran\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epsto
 pdf-base.sty
@@ -861,17 +869,18 @@ sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/ptm/m/n/17.28'. Switching off
-(microtype)                protrusion for this font on input line 55.
+(microtype)                protrusion for this font on input line 56.
 
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/ptm/b/n/17.28'. Switching off
-(microtype)                protrusion for this font on input line 55.
+(microtype)                protrusion for this font on input line 56.
 
 
 (C:\Users\alberttran\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.c
@@ -879,7 +888,7 @@ fg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 55.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 56.
 
 
 (C:\Users\alberttran\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
@@ -889,7 +898,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 fg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 55.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 56.
 
 
 (C:\Users\alberttran\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -902,20 +911,20 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/ptm/b/n/10'. Switching off
-(microtype)                protrusion for this font on input line 55.
+(microtype)                protrusion for this font on input line 56.
 
 LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 5
-5.
+6.
 (C:\Users\alberttran\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmtt.fd
 File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/cmtt/m/n/10'. Switching off
-(microtype)                protrusion for this font on input line 55.
+(microtype)                protrusion for this font on input line 56.
 
 LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
-55.
+56.
 (C:\Users\alberttran\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmtt.fd
 File: ts1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
@@ -924,56 +933,56 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (8.1689pt too wide) in paragraph at lines 55--55
+Overfull \hbox (8.1689pt too wide) in paragraph at lines 56--56
  [] 
  []
 
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/ptm/m/n/9'. Switching off
-(microtype)                protrusion for this font on input line 55.
+(microtype)                protrusion for this font on input line 56.
 
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/cmtt/m/n/9'. Switching off
-(microtype)                protrusion for this font on input line 55.
+(microtype)                protrusion for this font on input line 56.
 
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/ptm/m/n/12'. Switching off
-(microtype)                protrusion for this font on input line 57.
+(microtype)                protrusion for this font on input line 58.
 
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/ptm/b/n/12'. Switching off
-(microtype)                protrusion for this font on input line 57.
+(microtype)                protrusion for this font on input line 58.
 
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/ptm/m/it/10'. Switching off
-(microtype)                protrusion for this font on input line 65.
+(microtype)                protrusion for this font on input line 66.
 
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/ptm/b/it/10'. Switching off
-(microtype)                protrusion for this font on input line 74.
+(microtype)                protrusion for this font on input line 75.
 
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/ptm/b/n/9'. Switching off
-(microtype)                protrusion for this font on input line 87.
+(microtype)                protrusion for this font on input line 88.
 
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 9
-7.
+8.
 (C:\Users\alberttran\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 97.
+            Default family used instead on input line 98.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 97.
+            Default family used instead on input line 98.
 
 [1
 
@@ -986,7 +995,7 @@ File: figures/modelling/fig3_cogs_margin_by_quarter_parity.png Graphic file (ty
 pe png)
 <use figures/modelling/fig3_cogs_margin_by_quarter_parity.png>
 Package pdftex.def Info: figures/modelling/fig3_cogs_margin_by_quarter_parity.p
-ng  used on input line 112.
+ng  used on input line 113.
 (pdftex.def)             Requested size: 206.69388pt x 102.39958pt.
 <figures/modelling/fig2_monthly_recovery_pattern.png, id=109, 860.013pt x 570.4
 512pt>
@@ -994,188 +1003,149 @@ File: figures/modelling/fig2_monthly_recovery_pattern.png Graphic file (type pn
 g)
 <use figures/modelling/fig2_monthly_recovery_pattern.png>
 Package pdftex.def Info: figures/modelling/fig2_monthly_recovery_pattern.png  u
-sed on input line 118.
+sed on input line 119.
 (pdftex.def)             Requested size: 182.84575pt x 121.27803pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--148
-[]|\T5/ptm/m/n/9 (+20) +60M
- []
+
+Package microtype Warning: I cannot find a protrusion list for font
+(microtype)                `T5/ptm/m/n/7'. Switching off
+(microtype)                protrusion for this font on input line 144.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--149
-[]|\T5/ptm/m/n/9 (+20) Email re-engagement
- []
+Package microtype Warning: I cannot find a protrusion list for font
+(microtype)                `T5/ptm/b/n/7'. Switching off
+(microtype)                protrusion for this font on input line 149.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
-[]|\T5/ptm/m/n/9 (+20) Repeat rate
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 151--151
-[]|\T5/ptm/m/n/9 (+20) Overstock
- []
-
-
-Underfull \hbox (badness 1082) in paragraph at lines 151--151
-\T5/ptm/m/n/9 (+20) h ng SKU rat-ing $\OMS/cmsy/m/n/9 ^^U$\T5/ptm/m/n/9 (+20) 4
-,5 +
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 153--153
-[]|\T5/ptm/m/n/9 (+20) Chu ký l÷ìng
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 155--156
-[]|\T5/ptm/m/n/9 (+20) Return rate
- []
-
-
-Underfull \hbox (badness 3009) in paragraph at lines 155--156
-\T5/ptm/m/n/9 (+20) 5,6%$\OMS/cmsy/m/n/9 !$$\OML/cmm/m/it/9 <$\T5/ptm/m/n/9 (+2
-0) 4%, ti¸t
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \vbox (badness 3895) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2{C:/Users/alberttran/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.e
 nc} <./figures/modelling/fig3_cogs_margin_by_quarter_parity.png> <./figures/mod
 elling/fig2_monthly_recovery_pattern.png>]
 
 Package microtype Warning: I cannot find a protrusion list for font
-(microtype)                `T5/ptm/m/n/7'. Switching off
-(microtype)                protrusion for this font on input line 184.
-
-
-Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/ptm/m/n/5'. Switching off
-(microtype)                protrusion for this font on input line 184.
+(microtype)                protrusion for this font on input line 226.
 
 [3]
-<figures/shap/shap_combined_report_figure.png, id=147, 1059.4782pt x 825.68475p
+<figures/shap/shap_combined_report_figure.png, id=146, 1059.4782pt x 825.68475p
 t>
 File: figures/shap/shap_combined_report_figure.png Graphic file (type png)
 <use figures/shap/shap_combined_report_figure.png>
 Package pdftex.def Info: figures/shap/shap_combined_report_figure.png  used on 
-input line 227.
+input line 269.
 (pdftex.def)             Requested size: 385.56091pt x 300.4716pt.
  [4 <./figures/shap/shap_combined_report_figure.png>]
 
 Package microtype Warning: I cannot find a protrusion list for font
 (microtype)                `T5/ptm/m/it/9'. Switching off
-(microtype)                protrusion for this font on input line 254.
+(microtype)                protrusion for this font on input line 296.
 
 [5]
-<figures/eda/Business_Model_Canvas.png, id=167, 1445.4pt x 813.0375pt>
+<figures/eda/Business_Model_Canvas.png, id=168, 1445.4pt x 813.0375pt>
 File: figures/eda/Business_Model_Canvas.png Graphic file (type png)
 <use figures/eda/Business_Model_Canvas.png>
 Package pdftex.def Info: figures/eda/Business_Model_Canvas.png  used on input l
-ine 274.
+ine 316.
 (pdftex.def)             Requested size: 166.94296pt x 93.90053pt.
-<figures/eda/fig_timeseries_main.png, id=168, 1291.224pt x 781.11826pt>
+<figures/eda/fig_timeseries_main.png, id=169, 1291.224pt x 781.11826pt>
 File: figures/eda/fig_timeseries_main.png Graphic file (type png)
 <use figures/eda/fig_timeseries_main.png>
 Package pdftex.def Info: figures/eda/fig_timeseries_main.png  used on input lin
-e 281.
+e 323.
 (pdftex.def)             Requested size: 397.48499pt x 240.45168pt.
-<figures/eda/fig_decompose.png, id=169, 1146.684pt x 852.18375pt>
+<figures/eda/fig_decompose.png, id=170, 1146.684pt x 852.18375pt>
 File: figures/eda/fig_decompose.png Graphic file (type png)
 <use figures/eda/fig_decompose.png>
-Package pdftex.def Info: figures/eda/fig_decompose.png  used on input line 288.
+Package pdftex.def Info: figures/eda/fig_decompose.png  used on input line 330.
 
 (pdftex.def)             Requested size: 397.48499pt x 295.39505pt.
-<figures/eda/fig_multi_cohort_pareto.png, id=170, 1435.764pt x 569.12625pt>
+<figures/eda/fig_multi_cohort_pareto.png, id=171, 1435.764pt x 569.12625pt>
 File: figures/eda/fig_multi_cohort_pareto.png Graphic file (type png)
 <use figures/eda/fig_multi_cohort_pareto.png>
 Package pdftex.def Info: figures/eda/fig_multi_cohort_pareto.png  used on input
- line 296.
+ line 338.
 (pdftex.def)             Requested size: 194.76982pt x 77.20215pt.
-<figures/eda/fig_multi_corr.png, id=171, 823.27576pt x 718.48425pt>
+<figures/eda/fig_multi_corr.png, id=172, 823.27576pt x 718.48425pt>
 File: figures/eda/fig_multi_corr.png Graphic file (type png)
 <use figures/eda/fig_multi_corr.png>
-Package pdftex.def Info: figures/eda/fig_multi_corr.png  used on input line 302
+Package pdftex.def Info: figures/eda/fig_multi_corr.png  used on input line 344
 .
 (pdftex.def)             Requested size: 194.76982pt x 169.97302pt.
-<figures/eda/fig_discount_analysis.png, id=172, 1291.224pt x 426.99525pt>
+<figures/eda/fig_discount_analysis.png, id=173, 1291.224pt x 426.99525pt>
 File: figures/eda/fig_discount_analysis.png Graphic file (type png)
 <use figures/eda/fig_discount_analysis.png>
 Package pdftex.def Info: figures/eda/fig_discount_analysis.png  used on input l
-ine 312.
+ine 354.
 (pdftex.def)             Requested size: 194.76982pt x 64.40486pt.
-<figures/eda/fig_inventory_health.png, id=173, 1146.684pt x 498.06075pt>
+<figures/eda/fig_inventory_health.png, id=174, 1146.684pt x 498.06075pt>
 File: figures/eda/fig_inventory_health.png Graphic file (type png)
 <use figures/eda/fig_inventory_health.png>
 Package pdftex.def Info: figures/eda/fig_inventory_health.png  used on input li
-ne 318.
+ne 360.
 (pdftex.def)             Requested size: 194.76982pt x 84.5932pt.
-<figures/eda/fig_multi_return_heatmap.png, id=174, 1256.2935pt x 498.06075pt>
+<figures/eda/fig_multi_return_heatmap.png, id=175, 1256.2935pt x 498.06075pt>
 File: figures/eda/fig_multi_return_heatmap.png Graphic file (type png)
 <use figures/eda/fig_multi_return_heatmap.png>
 Package pdftex.def Info: figures/eda/fig_multi_return_heatmap.png  used on inpu
-t line 328.
+t line 370.
 (pdftex.def)             Requested size: 194.76982pt x 77.2138pt.
-<figures/eda/fig_multi_bubble.png, id=175, 1291.224pt x 569.12625pt>
+<figures/eda/fig_multi_bubble.png, id=176, 1291.224pt x 569.12625pt>
 File: figures/eda/fig_multi_bubble.png Graphic file (type png)
 <use figures/eda/fig_multi_bubble.png>
 Package pdftex.def Info: figures/eda/fig_multi_bubble.png  used on input line 3
-34.
+76.
 (pdftex.def)             Requested size: 194.76982pt x 85.84288pt.
-<figures/eda/fig_multi_stacked.png, id=176, 1291.224pt x 568.524pt>
+<figures/eda/fig_multi_stacked.png, id=177, 1291.224pt x 568.524pt>
 File: figures/eda/fig_multi_stacked.png Graphic file (type png)
 <use figures/eda/fig_multi_stacked.png>
 Package pdftex.def Info: figures/eda/fig_multi_stacked.png  used on input line 
-344.
+386.
 (pdftex.def)             Requested size: 194.76982pt x 85.75204pt.
 
-Underfull \hbox (badness 1490) in paragraph at lines 345--345
+Underfull \hbox (badness 1490) in paragraph at lines 387--387
 []\T5/ptm/m/n/9 (+20) (a) |Streetwear 75%$\OMS/cmsy/m/n/9 !$\T5/ptm/m/n/9 (+20)
  84% (2012^^U2022); Out-door
  []
 
-<figures/eda/fig_clv_gap.png, id=177, 1146.684pt x 426.99525pt>
+<figures/eda/fig_clv_gap.png, id=178, 1146.684pt x 426.99525pt>
 File: figures/eda/fig_clv_gap.png Graphic file (type png)
 <use figures/eda/fig_clv_gap.png>
-Package pdftex.def Info: figures/eda/fig_clv_gap.png  used on input line 350.
+Package pdftex.def Info: figures/eda/fig_clv_gap.png  used on input line 392.
 (pdftex.def)             Requested size: 194.76982pt x 72.52307pt.
-<figures/eda/fig_uni_categorical.png, id=178, 1284.59924pt x 781.11826pt>
+<figures/eda/fig_uni_categorical.png, id=179, 1284.59924pt x 781.11826pt>
 File: figures/eda/fig_uni_categorical.png Graphic file (type png)
 <use figures/eda/fig_uni_categorical.png>
 Package pdftex.def Info: figures/eda/fig_uni_categorical.png  used on input lin
-e 360.
+e 402.
 (pdftex.def)             Requested size: 194.76982pt x 118.42609pt.
 
-Underfull \hbox (badness 1648) in paragraph at lines 361--361
+Underfull \hbox (badness 1648) in paragraph at lines 403--403
 []\T5/ptm/m/n/9 (+20) (a) |Ph¥n phèi bi¸n ph¥n lo¤i: 79,9% de-liv-ered;
  []
 
-<figures/eda/fig_uni_continuous.png, id=179, 1291.224pt x 709.4505pt>
+<figures/eda/fig_uni_continuous.png, id=180, 1291.224pt x 709.4505pt>
 File: figures/eda/fig_uni_continuous.png Graphic file (type png)
 <use figures/eda/fig_uni_continuous.png>
 Package pdftex.def Info: figures/eda/fig_uni_continuous.png  used on input line
- 366.
+ 408.
 (pdftex.def)             Requested size: 194.76982pt x 107.00838pt.
-<figures/eda/fig_uni_margin.png, id=180, 1074.414pt x 426.99525pt>
+<figures/eda/fig_uni_margin.png, id=181, 1074.414pt x 426.99525pt>
 File: figures/eda/fig_uni_margin.png Graphic file (type png)
 <use figures/eda/fig_uni_margin.png>
-Package pdftex.def Info: figures/eda/fig_uni_margin.png  used on input line 376
+Package pdftex.def Info: figures/eda/fig_uni_margin.png  used on input line 418
 .
 (pdftex.def)             Requested size: 194.76982pt x 77.40312pt.
-<figures/eda/fig_bi_catnum.png, id=181, 1249.0665pt x 972.63374pt>
+<figures/eda/fig_bi_catnum.png, id=182, 1249.0665pt x 972.63374pt>
 File: figures/eda/fig_bi_catnum.png Graphic file (type png)
 <use figures/eda/fig_bi_catnum.png>
-Package pdftex.def Info: figures/eda/fig_bi_catnum.png  used on input line 382.
+Package pdftex.def Info: figures/eda/fig_bi_catnum.png  used on input line 424.
 
 (pdftex.def)             Requested size: 194.76982pt x 151.66197pt.
-<figures/eda/1.png, id=182, 775.698pt x 91.542pt>
+<figures/eda/1.png, id=183, 775.698pt x 91.542pt>
 File: figures/eda/1.png Graphic file (type png)
 <use figures/eda/1.png>
-Package pdftex.def Info: figures/eda/1.png  used on input line 391.
+Package pdftex.def Info: figures/eda/1.png  used on input line 433.
 (pdftex.def)             Requested size: 397.48499pt x 46.9079pt.
 [6
 
@@ -1188,86 +1158,86 @@ _multi_return_heatmap.png> <./figures/eda/fig_multi_bubble.png> <./figures/eda/
 fig_multi_stacked.png> <./figures/eda/fig_clv_gap.png> <./figures/eda/fig_uni_c
 ategorical.png> <./figures/eda/fig_uni_continuous.png>] [9 <./figures/eda/fig_u
 ni_margin.png> <./figures/eda/fig_bi_catnum.png> <./figures/eda/1.png>]
-<figures/modelling/fig1_annual_revenue_trajectory.png, id=220, 860.013pt x 570.
+<figures/modelling/fig1_annual_revenue_trajectory.png, id=221, 860.013pt x 570.
 4512pt>
 File: figures/modelling/fig1_annual_revenue_trajectory.png Graphic file (type p
 ng)
 <use figures/modelling/fig1_annual_revenue_trajectory.png>
 Package pdftex.def Info: figures/modelling/fig1_annual_revenue_trajectory.png  
-used on input line 403.
+used on input line 445.
 (pdftex.def)             Requested size: 397.48499pt x 263.65546pt.
-<figures/modelling/fig12_model_architecture.png, id=221, 1004.553pt x 498.663pt
+<figures/modelling/fig12_model_architecture.png, id=222, 1004.553pt x 498.663pt
 >
 File: figures/modelling/fig12_model_architecture.png Graphic file (type png)
 <use figures/modelling/fig12_model_architecture.png>
 Package pdftex.def Info: figures/modelling/fig12_model_architecture.png  used o
-n input line 410.
+n input line 452.
 (pdftex.def)             Requested size: 397.48499pt x 197.31593pt.
-<figures/modelling/fig4_cr_derivation_chain.png, id=222, 932.283pt x 462.0462pt
+<figures/modelling/fig4_cr_derivation_chain.png, id=223, 932.283pt x 462.0462pt
 >
 File: figures/modelling/fig4_cr_derivation_chain.png Graphic file (type png)
 <use figures/modelling/fig4_cr_derivation_chain.png>
 Package pdftex.def Info: figures/modelling/fig4_cr_derivation_chain.png  used o
-n input line 433.
+n input line 475.
 (pdftex.def)             Requested size: 194.76982pt x 96.52493pt.
-<figures/modelling/fig5_folda_vs_lb_decoupling.png, id=223, 932.283pt x 462.528
+<figures/modelling/fig5_folda_vs_lb_decoupling.png, id=224, 932.283pt x 462.528
 pt>
 File: figures/modelling/fig5_folda_vs_lb_decoupling.png Graphic file (type png)
 
 <use figures/modelling/fig5_folda_vs_lb_decoupling.png>
 Package pdftex.def Info: figures/modelling/fig5_folda_vs_lb_decoupling.png  use
-d on input line 439.
+d on input line 481.
 (pdftex.def)             Requested size: 194.76982pt x 96.6256pt.
-<figures/modelling/fig7_leaderboard_progression.png, id=224, 1004.553pt x 426.3
+<figures/modelling/fig7_leaderboard_progression.png, id=225, 1004.553pt x 426.3
 93pt>
 File: figures/modelling/fig7_leaderboard_progression.png Graphic file (type png
 )
 <use figures/modelling/fig7_leaderboard_progression.png>
 Package pdftex.def Info: figures/modelling/fig7_leaderboard_progression.png  us
-ed on input line 449.
+ed on input line 491.
 (pdftex.def)             Requested size: 194.76982pt x 82.66809pt.
-<figures/modelling/fig8_seed_variance_reduction.png, id=225, 932.283pt x 390.25
+<figures/modelling/fig8_seed_variance_reduction.png, id=226, 932.283pt x 390.25
 8pt>
 File: figures/modelling/fig8_seed_variance_reduction.png Graphic file (type png
 )
 <use figures/modelling/fig8_seed_variance_reduction.png>
 Package pdftex.def Info: figures/modelling/fig8_seed_variance_reduction.png  us
-ed on input line 455.
+ed on input line 497.
 (pdftex.def)             Requested size: 194.76982pt x 81.52785pt.
-<figures/modelling/fig9_promo_schedule.png, id=226, 935.1738pt x 354.123pt>
+<figures/modelling/fig9_promo_schedule.png, id=227, 935.1738pt x 354.123pt>
 File: figures/modelling/fig9_promo_schedule.png Graphic file (type png)
 <use figures/modelling/fig9_promo_schedule.png>
 Package pdftex.def Info: figures/modelling/fig9_promo_schedule.png  used on inp
-ut line 465.
+ut line 507.
 (pdftex.def)             Requested size: 194.76982pt x 73.75201pt.
-<figures/modelling/fig10_component_analysis.png, id=227, 929.3922pt x 390.258pt
+<figures/modelling/fig10_component_analysis.png, id=228, 929.3922pt x 390.258pt
 >
 File: figures/modelling/fig10_component_analysis.png Graphic file (type png)
 <use figures/modelling/fig10_component_analysis.png>
 Package pdftex.def Info: figures/modelling/fig10_component_analysis.png  used o
-n input line 471.
+n input line 513.
 (pdftex.def)             Requested size: 194.76982pt x 81.7839pt.
-<figures/modelling/fig11_era_weighting_experiment.png, id=228, 933.7284pt x 389
+<figures/modelling/fig11_era_weighting_experiment.png, id=229, 933.7284pt x 389
 .7762pt>
 File: figures/modelling/fig11_era_weighting_experiment.png Graphic file (type p
 ng)
 <use figures/modelling/fig11_era_weighting_experiment.png>
 Package pdftex.def Info: figures/modelling/fig11_era_weighting_experiment.png  
-used on input line 481.
+used on input line 523.
 (pdftex.def)             Requested size: 194.76982pt x 81.30229pt.
-<figures/modelling/fig13_fold_cr_consistency.png, id=229, 860.013pt x 390.258pt
+<figures/modelling/fig13_fold_cr_consistency.png, id=230, 860.013pt x 390.258pt
 >
 File: figures/modelling/fig13_fold_cr_consistency.png Graphic file (type png)
 <use figures/modelling/fig13_fold_cr_consistency.png>
 Package pdftex.def Info: figures/modelling/fig13_fold_cr_consistency.png  used 
-on input line 487.
+on input line 529.
 (pdftex.def)             Requested size: 194.76982pt x 88.38187pt.
-<figures/modelling/fig6_folda_mae_progression.png, id=230, 932.283pt x 390.258p
+<figures/modelling/fig6_folda_mae_progression.png, id=231, 932.283pt x 390.258p
 t>
 File: figures/modelling/fig6_folda_mae_progression.png Graphic file (type png)
 <use figures/modelling/fig6_folda_mae_progression.png>
 Package pdftex.def Info: figures/modelling/fig6_folda_mae_progression.png  used
- on input line 496.
+ on input line 538.
 (pdftex.def)             Requested size: 325.9406pt x 136.44347pt.
 
 [10
@@ -1280,7 +1250,7 @@ duction.png> <./figures/modelling/fig9_promo_schedule.png> <./figures/modelling
 /fig10_component_analysis.png> <./figures/modelling/fig11_era_weighting_experim
 ent.png> <./figures/modelling/fig13_fold_cr_consistency.png>] [12 <./figures/mo
 delling/fig6_folda_mae_progression.png>]
-Underfull \hbox (badness 8170) in paragraph at lines 512--513
+Underfull \hbox (badness 8170) in paragraph at lines 554--555
 []\T5/ptm/b/n/9 (+20) Khuy¸n m¢i (24): \T5/ptm/m/n/9 (+20) promo_{spring_sale, 
 mid_year, fall_launch, year_end, ur-ban_blowout, ru-
  []
@@ -1288,60 +1258,60 @@ mid_year, fall_launch, year_end, ur-ban_blowout, ru-
 [13
 
 ]
-<figures/shap/shap_summary_beeswarm.png, id=263, 750.1626pt x 570.4512pt>
+<figures/shap/shap_summary_beeswarm.png, id=264, 750.1626pt x 570.4512pt>
 File: figures/shap/shap_summary_beeswarm.png Graphic file (type png)
 <use figures/shap/shap_summary_beeswarm.png>
 Package pdftex.def Info: figures/shap/shap_summary_beeswarm.png  used on input 
-line 532.
+line 574.
 (pdftex.def)             Requested size: 397.48499pt x 302.25935pt.
-<figures/shap/shap_seasonal_decomp.png, id=264, 1005.9984pt x 1306.6416pt>
+<figures/shap/shap_seasonal_decomp.png, id=265, 1005.9984pt x 1306.6416pt>
 File: figures/shap/shap_seasonal_decomp.png Graphic file (type png)
 <use figures/shap/shap_seasonal_decomp.png>
 Package pdftex.def Info: figures/shap/shap_seasonal_decomp.png  used on input l
-ine 539.
+ine 581.
 (pdftex.def)             Requested size: 397.48499pt x 516.28725pt.
-<figures/shap/shap_dependence_tet.png, id=265, 919.7562pt x 356.532pt>
+<figures/shap/shap_dependence_tet.png, id=266, 919.7562pt x 356.532pt>
 File: figures/shap/shap_dependence_tet.png Graphic file (type png)
 <use figures/shap/shap_dependence_tet.png>
 Package pdftex.def Info: figures/shap/shap_dependence_tet.png  used on input li
-ne 547.
+ne 589.
 (pdftex.def)             Requested size: 194.76982pt x 75.49954pt.
-<figures/shap/shap_dependence_eom_payday.png, id=266, 931.8012pt x 356.532pt>
+<figures/shap/shap_dependence_eom_payday.png, id=267, 931.8012pt x 356.532pt>
 File: figures/shap/shap_dependence_eom_payday.png Graphic file (type png)
 <use figures/shap/shap_dependence_eom_payday.png>
 Package pdftex.def Info: figures/shap/shap_dependence_eom_payday.png  used on i
-nput line 553.
+nput line 595.
 (pdftex.def)             Requested size: 194.76982pt x 74.52031pt.
-<figures/shap/shap_regime_comparison.png, id=267, 931.8012pt x 640.3122pt>
+<figures/shap/shap_regime_comparison.png, id=268, 931.8012pt x 640.3122pt>
 File: figures/shap/shap_regime_comparison.png Graphic file (type png)
 <use figures/shap/shap_regime_comparison.png>
 Package pdftex.def Info: figures/shap/shap_regime_comparison.png  used on input
- line 562.
+ line 604.
 (pdftex.def)             Requested size: 357.73405pt x 245.82237pt.
-<figures/shap/shap_waterfall_3days.png, id=268, 1292.6694pt x 427.8384pt>
+<figures/shap/shap_waterfall_3days.png, id=269, 1292.6694pt x 427.8384pt>
 File: figures/shap/shap_waterfall_3days.png Graphic file (type png)
 <use figures/shap/shap_waterfall_3days.png>
 Package pdftex.def Info: figures/shap/shap_waterfall_3days.png  used on input l
-ine 570.
+ine 612.
 (pdftex.def)             Requested size: 194.76982pt x 64.46022pt.
-<figures/shap/shap_margin_analysis.png, id=269, 1003.5894pt x 428.3202pt>
+<figures/shap/shap_margin_analysis.png, id=270, 1003.5894pt x 428.3202pt>
 File: figures/shap/shap_margin_analysis.png Graphic file (type png)
 <use figures/shap/shap_margin_analysis.png>
 Package pdftex.def Info: figures/shap/shap_margin_analysis.png  used on input l
-ine 576.
+ine 618.
 (pdftex.def)             Requested size: 194.76982pt x 83.12015pt.
-<figures/shap/shap_cogs_vs_rev_comparison.png, id=270, 859.5312pt x 424.9476pt>
+<figures/shap/shap_cogs_vs_rev_comparison.png, id=271, 859.5312pt x 424.9476pt>
 
 File: figures/shap/shap_cogs_vs_rev_comparison.png Graphic file (type png)
 <use figures/shap/shap_cogs_vs_rev_comparison.png>
 Package pdftex.def Info: figures/shap/shap_cogs_vs_rev_comparison.png  used on 
-input line 585.
+input line 627.
 (pdftex.def)             Requested size: 397.48499pt x 196.51573pt.
-<figures/shap/shap_category_bar.png, id=271, 986.2446pt x 440.847pt>
+<figures/shap/shap_category_bar.png, id=272, 986.2446pt x 440.847pt>
 File: figures/shap/shap_category_bar.png Graphic file (type png)
 <use figures/shap/shap_category_bar.png>
 Package pdftex.def Info: figures/shap/shap_category_bar.png  used on input line
- 592.
+ 634.
 (pdftex.def)             Requested size: 337.86465pt x 151.02281pt.
  [14
 
@@ -1356,16 +1326,16 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `report_neurips.out' has not changed.
-(rerunfilecheck)             Checksum: 6C6CD7B2BC2187B441F05A328D9AC515;4236.
+(rerunfilecheck)             Checksum: 5E0AE647F7423254393FA3E08BB7A099;4320.
  ) 
 Here is how much of TeX's memory you used:
- 17205 strings out of 474479
- 289074 string characters out of 5741232
- 1948542 words of memory out of 5000000
- 38963 multiletter control sequences out of 15000+600000
- 615278 words of font info for 189 fonts, out of 8000000 for 9000
+ 17288 strings out of 474479
+ 290311 string characters out of 5741232
+ 1950542 words of memory out of 5000000
+ 39023 multiletter control sequences out of 15000+600000
+ 619782 words of font info for 201 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1013b,582s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1013b,597s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\alberttran\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
 \tcrm1000.pk> <C:\Users\alberttran\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappe
 n/ec/dpi600\tctt1000.pk><C:/Users/alberttran/AppData/Local/Programs/MiKTeX/font
@@ -1390,9 +1360,9 @@ Programs/MiKTeX/fonts/type1/vntex/urwvn/utmr8v.pfb><C:/Users/alberttran/AppData
 /Local/Programs/MiKTeX/fonts/type1/vntex/urwvn/utmri8v.pfb><C:/Users/alberttran
 /AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb><C:/Users/alber
 ttran/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt9.pfb>
-Output written on report_neurips.pdf (17 pages, 6682131 bytes).
+Output written on report_neurips.pdf (17 pages, 6685254 bytes).
 PDF statistics:
- 410 PDF objects out of 1000 (max. 8388607)
+ 411 PDF objects out of 1000 (max. 8388607)
  74 named destinations out of 1000 (max. 500000)
- 43860 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 50004 words of extra memory for PDF output out of 51595 (max. 10000000)
 
